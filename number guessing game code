@@ -1,0 +1,7 @@
+def main(): 
+
+    from random import randint# gets random number from random generator 
+
+    answer= randint(1,100) 
+
+    numGuess=int(input("what is your guess?")) 
